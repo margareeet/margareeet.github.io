@@ -6,7 +6,6 @@ body {
 
 #img-circle {
 	border-radius: 50%;
-	border: 0.5px solid #403D39;
 	display: block;
 	margin: 200px auto 0 auto;
 }
